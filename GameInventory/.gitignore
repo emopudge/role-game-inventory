@@ -1,0 +1,36 @@
+# Сборка
+bin/
+obj/
+[Bb]uild/
+[Bb]uilds/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+.vscode/
+*.swp
+*_Resharper*
+*.DotSettings.user
+
+# Тесты
+TestResults/
+*.trx
+
+# Пакеты
+packages/
+*.nupkg
+
+# Резервные копии
+*.backup
+*.bak
+
+# IDE
+.idea/
+*.iml
+
+# Временные файлы
+temp/
+tmp/
